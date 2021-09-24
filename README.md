@@ -16,7 +16,7 @@ _____________________________
 
 
 **Ph.D.** Neuroscience \
-[Rutgers University](https://rwjms.rutgers.edu/departments/neuroscience-and-cell-biology/about-the-department) \
+[Rutgers University](https://sasn.rutgers.edu/research/centers-institutes/center-molecular-and-behavioral-neuroscience-cmbn) \
 *2005-2011*
 
 
