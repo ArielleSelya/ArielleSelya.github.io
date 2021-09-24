@@ -52,10 +52,7 @@ _____________________________
 
 _____________________________
 
-### Select Publications
-
-#### As First Author
-
+### Select Publications (of 51)
 
 **Selya, A.S.**, Shiffman, S., Greenberg, M., Augustson, E.M. (2021) Dual Use of Cigarettes and JUUL: Trajectory and Cigarette Consumption. *American Journal of Health Behavior*. Available: [https://doi.org/10.5993/AJHB.45.3.5](https://doi.org/10.5993/AJHB.45.3.5)
 
@@ -68,16 +65,13 @@ _____________________________
 
 **Selya, A.S.**, Rose, J.S., Dierker, L.C., Mermelstein, R.J. (2012) A practical guide to calculating Cohen’s f2, a measure of local effect size, from PROC MIXED. *Frontiers in Psychology*. Available: [https://doi.org/10.3389/fpsyg.2012.00111](https://doi.org/10.3389/fpsyg.2012.00111)
 
-
-
-#### As Coauthor
-
 Foxon, F. & **Selya, A.S.** (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. Available: [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
 
 Sooyong, K. & **Selya, A.S.** (2020). The relationship between electronic cigarette use and conventional cigarette smoking is largely attributable to shared risk factors. *Nicotine and Tobacco Research*. Available: [https://doi.org/10.1093/ntr/ntz157](https://doi.org/10.1093/ntr/ntz157)
 
 
+#### [Full bibliography on PubMed](https://www.ncbi.nlm.nih.gov/myncbi/1zSOqjy9YEv5E/bibliography/public/)
 
 
 _____________________________
