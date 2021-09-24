@@ -12,6 +12,7 @@ _____________________________
 
 **Postgraduate Training** System Dynamics Modeling \
 [System Dynamics Programme, University of Bergen](https://www.uib.no/en/studies/MASV-SYSDY) \
+*2019-present*
 
 
 **Postdoctoral Fellowship; NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
