@@ -10,7 +10,7 @@ _____________________________
 
 ### Education
 
-**Postdoctoral Fellowship; NRSA Fellowship** Laboratory of Dr. Lisa Dierker \
+**Postdoctoral Fellowship; NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2010-2014*
 
@@ -40,7 +40,7 @@ _____________________________
 
 
 **Visiting Assistant Professor; Research Associate** \
-[Laboratory of Dr. Lisa Dierker, Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
+[Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2012-2013*
 
 
