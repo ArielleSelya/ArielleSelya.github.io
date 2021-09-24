@@ -15,7 +15,8 @@ _____________________________
 *2019-present*
 
 
-**Postdoctoral Fellowship; NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
+**Postdoctoral Fellowship;** \
+**NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2010-2014*
 
@@ -39,12 +40,14 @@ _____________________________
 *2020–Present*
 
 
-**Assistant Scientist, CoBRE Project Leader; Director, Data Exchange** \
-Behavioral Sciences Group, [Selya Lab, Sanford Research](https://research.sanfordhealth.org/researchers-and-labs/selya-lab) \
+**Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group,** \
+**Director, Data Exchange** \
+[Selya Lab, Sanford Research](https://research.sanfordhealth.org/researchers-and-labs/selya-lab) \
 *2018–2021*
 
 
-**Visiting Assistant Professor; Research Associate** \
+**Visiting Assistant Professor,** \
+**Research Associate** \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2012-2013*
 
