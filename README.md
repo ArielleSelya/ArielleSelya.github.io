@@ -10,9 +10,9 @@ _____________________________
 
 ### Education
 
-**Postdoctoral Fellow** Laboratory of Dr. Lisa Dierker \
+**Postdoctoral Fellowship; NRSA Fellowship** Laboratory of Dr. Lisa Dierker \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
-*2010-2012*
+*2010-2014*
 
 
 **Ph.D.** Neuroscience \
@@ -39,22 +39,7 @@ _____________________________
 *2018–Present*
 
 
-**Assistant Professor** \
-[Master of Public Health Program, University of North Dakota](https://med.und.edu/public-health/masters/index.html) \
-*2014–2018*
-
-
-**NRSA Fellow** \
-[Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
-*2014*
-
-
-**Visiting Assistant Professor** \
-[Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
-*2013*
-
-
-**Research Associate** \
+**Visiting Assistant Professor; Research Associate** \
 [Laboratory of Dr. Lisa Dierker, Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2012-2013*
 
