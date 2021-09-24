@@ -53,13 +53,13 @@ _____________________________
 
 **Assistant Professor** 
 [Master of Public Health Program](https://und.edu/programs/public-health-mph/), [Department of Population Health, Univeristy of North Dakota School of Medicine & Health Sciences](https://med.und.edu/population-health/index.html) \
-*2018–Present*
+*2014-2019*
 
 
 **Visiting Assistant Professor;** \
 **Research Associate** \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
-*2012-2013*
+*2012-2014*
 
 
 
