@@ -40,13 +40,23 @@ _____________________________
 *2020–Present*
 
 
-**Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group,** \
+**Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group;** \
 **Director, Data Exchange** \
 [Selya Lab, Sanford Research](https://research.sanfordhealth.org/researchers-and-labs/selya-lab) \
 *2018–2021*
 
 
-**Visiting Assistant Professor,** \
+**Adjunct Associate Professor** 
+[Pediatrics Department, Univeristy of South Dakota Sanford School of Medicine](https://www.usd.edu/medicine/pediatrics) \
+*2018–Present*
+
+
+**Assistant Professor** 
+[Master of Public Health Program](https://und.edu/programs/public-health-mph/), [Department of Population Health, Univeristy of North Dakota School of Medicine & Health Sciences](https://med.und.edu/population-health/index.html) \
+*2018–Present*
+
+
+**Visiting Assistant Professor;** \
 **Research Associate** \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2012-2013*
