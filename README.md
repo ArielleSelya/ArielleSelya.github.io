@@ -103,9 +103,9 @@ _____________________________
 
 **Selya, A.S.**, Foxon, F. (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. Available: [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-[Tweetorial on modeling e-cigarette harm reduction policies,](https://twitter.com/ArielleSelya/status/1374701699777060864) **Selya, A.S.**, (2021). 
+**Selya, A.S.**, (2021) [Tweetorial on modeling e-cigarette harm reduction policies,](https://twitter.com/ArielleSelya/status/1374701699777060864) 
 
-[Tweetorial on quantifying e-cigarette diversion effect,](https://twitter.com/ArielleSelya/status/1346481055608422401) **Selya, A.S.**, (2021).
+**Selya, A.S.**, (2021) [Tweetorial on quantifying e-cigarette diversion effect,](https://twitter.com/ArielleSelya/status/1346481055608422401)
 
 _____________________________
 
