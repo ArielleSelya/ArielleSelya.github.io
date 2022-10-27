@@ -38,6 +38,7 @@ _____________________________
 **Scientist** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/arielle-selya-phd/) \
 *2020–Present*
+
 *Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction on an exclusive basis to JUUL Labs, Inc.
 
 
