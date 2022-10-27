@@ -38,6 +38,7 @@ _____________________________
 **Scientist** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/arielle-selya-phd/) \
 *2020–Present*
+*Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction on an exclusive basis to JUUL Labs, Inc.
 
 
 **Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group;** \
@@ -67,7 +68,7 @@ _____________________________
 
 ### Select Publications (of 51)
 
-**Selya, A**, Wissmann, R., Shiffman, S., Chandra, S., Sembower, M., Joselow, J., Kim, S. (2022, in process). Higher Sales of Electronic Nicotine Delivery Systems (ENDS) in the US Are Associated with Cigarette Sales Declines, according to a Trend Break Analysis. *Under revise-and-resubmit to Journal of Consumer Policy* Preprint available: [https://www.qeios.com/read/GM2450/pdf](https://www.qeios.com/read/GM2450/pdf)
+**Selya, A**, Wissmann, R., Shiffman, S., Chandra, S., Sembower, M., Joselow, J., Kim, S. (2022, in process). Higher Sales of Electronic Nicotine Delivery Systems (ENDS) in the US Are Associated with Cigarette Sales Declines, according to a Trend Break Analysis. *Under revise-and-resubmit to Journal of Consumer Policy*. Preprint available: [https://www.qeios.com/read/GM2450/pdf](https://www.qeios.com/read/GM2450/pdf)
 
 
 Foxon, F., **Selya, A.**, Gitchell, J., Shiffman, S. (2022). Population-Level Trend Modelling to Examine the Relationship between Smoking Prevalence and E-Cigarette Use among US Adults. *BMC Public Health*. Available: [https://doi.org/10.1186/s12889-022-14341-z](https://doi.org/10.1186/s12889-022-14341-z)
@@ -129,13 +130,13 @@ _____________________________
 
 ### Public Engagement
 
-**Selya, A.S.**, (2021) [Tweetorial on cigarette sales decline after e-cigarette era,](https://twitter.com/ArielleSelya/status/1585706514244780032)
+**Selya, A.S.**, (2021) [Tweetorial on cigarette sales decline after e-cigarette era](https://twitter.com/ArielleSelya/status/1585706514244780032)
 
 **Selya, A.S.**, Foxon, F. (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. Available: [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
 
-**Selya, A.S.**, (2021) [Tweetorial on modeling e-cigarette harm reduction policies,](https://twitter.com/ArielleSelya/status/1374701699777060864) 
+**Selya, A.S.**, (2021) [Tweetorial on modeling e-cigarette harm reduction policies](https://twitter.com/ArielleSelya/status/1374701699777060864) 
 
-**Selya, A.S.**, (2021) [Tweetorial on quantifying e-cigarette diversion effect,](https://twitter.com/ArielleSelya/status/1346481055608422401)
+**Selya, A.S.**, (2021) [Tweetorial on quantifying e-cigarette diversion effect](https://twitter.com/ArielleSelya/status/1346481055608422401)
 
 _____________________________
 
