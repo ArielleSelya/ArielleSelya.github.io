@@ -2,7 +2,7 @@
 ## Consultant Scientist
 
 
-![selfie](https://raw.githubusercontent.com/ArielleSelya/ArielleSelya.github.io/main/Arielle_photo_UND_Norway_story.jpg){:height="50%" width="50%"}
+![selfie](https://raw.githubusercontent.com/ArielleSelya/ArielleSelya.github.io/main/PA_Headshot_round_2.jpg){:height="50%" width="50%"}
 
 
 _____________________________
