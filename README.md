@@ -180,20 +180,23 @@ _____________________________
 
 ### Contact and Socials
 
-Email: aselya@pinneyassociates.com
+Email: [aselya@pinneyassociates.com](mailto:aselya@pinneyassociates.com)
 
 
 Twitter: [@ArielleSelya](https://twitter.com/ArielleSelya)
+
+
+LinkedIn: [Arielle Selya](https://www.linkedin.com/in/arielle-selya-65536b13/)
+
+
+PubMed Bibliography: [Arielle Selya](https://www.ncbi.nlm.nih.gov/myncbi/1zSOqjy9YEv5E/bibliography/public/)
+
+
+Google Scholar: [Arielle Selya](https://scholar.google.com/citations?hl=en&user=dP1kl0IAAAAJ)
 
 
 ORCID: [0000-0001-7026-6988](https://orcid.org/0000-0001-7026-6988)
 
 
 ResearchGate: [Arielle_Selya](https://www.researchgate.net/profile/Arielle-Selya)
-
-
-Google Scholar: [Arielle Selya](https://scholar.google.com/citations?hl=en&user=dP1kl0IAAAAJ)
-
-
-PubMed Bibliography: [Arielle Selya](https://www.ncbi.nlm.nih.gov/myncbi/1zSOqjy9YEv5E/bibliography/public/)
 
