@@ -17,7 +17,8 @@ _____________________________
 *2020–Present*
 
 
-**Consultant, Center of Excellence for the Acceleration of Harm Reduction (CoEHAR), University of Catania**  \
+**Consultant** \
+[Center of Excellence for the Acceleration of Harm Reduction (CoEHAR)](https://www.coehar.org/), University of Catania** \
 *2024-Present*
 
 
