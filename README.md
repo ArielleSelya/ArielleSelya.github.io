@@ -12,6 +12,7 @@ _____________________________
 
 *Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction to JUUL Labs, Inc. I also consult to CoEHAR at University of Catania, which received funding from the Foundation for a Smokefree World (FSFW; now Global Action to End Smoking (GA)).
 
+
 **Scientist** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/arielle-selya-phd/) \
 *2020–Present*
@@ -42,7 +43,6 @@ _____________________________
 **Research Associate** \
 [Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
 *2012-2014*
-
 
 
 _____________________________
@@ -127,15 +127,27 @@ _____________________________
 
 _____________________________
 
-### Public Engagement
+### Other Scientific Engagement
 
-**Selya, A.S.**, (2021) [Tweetorial on cigarette sales decline after e-cigarette era](https://twitter.com/ArielleSelya/status/1585706514244780032)
+**Twitter/X Threads on Scientific Articles**, (2021-present) [Master Thread](https://twitter.com/ArielleSelya/status/1806317717768585618)
+
+
+**Selya, A.** (2024). More caution in conclusions is warranted due to the methodological artifact in NYTS 2021. Post-publication criticism on PubPeer. Available: [https://pubpeer.com/publications/E128EE4F19CD39411FAFDDB6A88FED](https://pubpeer.com/publications/E128EE4F19CD39411FAFDDB6A88FED)
+
+
+**Selya, A.** (2024). On the plausibility and scope of the hypothesized gateway effect. *Post-publication criticism on PubPeer.* Available: [https://pubpeer.com/publications/EAD2B506813B485178822E76F2377F](https://pubpeer.com/publications/EAD2B506813B485178822E76F2377F)
+
+
+**Selya, A.** (2024). Key results are attributed to a well-documented methodological artifact in NYTS 2021. *Post-publication criticism on PubPeer.* Available: [https://pubpeer.com/publications/DEF986999C6287FCD8FD4048A0B8EE](https://pubpeer.com/publications/DEF986999C6287FCD8FD4048A0B8EE)
+
+
+**Selya, A.,** Gitchel, J.G., Foxon, F., Sembower, M.A., Niaura, R. (2024). Concerns about joinpoint analysis and state-level analyses. *Post-publication criticism on PubPeer.* Available: [https://pubpeer.com/publications/A21E464F1BA2A64B02D7ABF3A88965](https://pubpeer.com/publications/A21E464F1BA2A64B02D7ABF3A88965)
+
+
+**Selya, A.** & Cummings, M.K. (2023). Reduced risk claim for smokeless tobacco: A deterrent effect for tobacco-naive youth? *Post-publication criticism on PubPeer.* Available: [https://pubpeer.com/publications/A21E464F1BA2A64B02D7ABF3A88965](https://pubpeer.com/publications/A21E464F1BA2A64B02D7ABF3A88965)
+
 
 **Selya, A.S.**, Foxon, F. (2021) Response to Proposed Changes to the Netherland’s Tobacco and Tobacco Products Decree. Available: [https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a](https://www.internetconsultatie.nl/smaakjes/reactie/366b7013-8ee6-4411-bbba-f004509cbb7a)
-
-**Selya, A.S.**, (2021) [Tweetorial on modeling e-cigarette harm reduction policies](https://twitter.com/ArielleSelya/status/1374701699777060864) 
-
-**Selya, A.S.**, (2021) [Tweetorial on quantifying e-cigarette diversion effect](https://twitter.com/ArielleSelya/status/1346481055608422401)
 
 _____________________________
 
