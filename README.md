@@ -111,6 +111,9 @@ _____________________________
 **The State Frontier: Taxes, Bans, & Product Regulation.** Panel discussion at the annual meeting of the *Tobacco Manufacturers Association*, Arlington, VA, April 2024.
 
 
+**Rising uptake of alternative nicotine products (ANPs) by smoking-naive individuals is not necessarily a threat to public health: The case of diversion by snus in Norway.** Poster presentation at the annual meeting of the *Society for Research on Nicotine & Tobacco*, Edinburgh, Scotland, March 2024. Poster available: [https://osf.io/preprints/osf/tzdq2](https://osf.io/preprints/osf/tzdq2)
+
+
 **Selective Reporting, Confirmation Bias, and Spin in Scientific Articles.** Oral presentation at the annual *Global Forum on Nicotine*, Warsaw, Poland, June 2023.
 
 
