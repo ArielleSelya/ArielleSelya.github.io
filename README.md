@@ -10,7 +10,7 @@ _____________________________
 
 ### Employment
 
-*Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction on an exclusive basis to JUUL Labs, Inc. I also consult to CoEHAR at University of Catania, which received funding from the Foundation for a Smokefree World (FSFW; now Global Action to End Smoking (GA)).
+*Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction to JUUL Labs, Inc. I also consult to CoEHAR at University of Catania, which received funding from the Foundation for a Smokefree World (FSFW; now Global Action to End Smoking (GA)).
 
 **Scientist** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/arielle-selya-phd/) \
@@ -84,6 +84,7 @@ _____________________________
 
 Kim, S., Goldenson, N.I., **Selya, A.**, Shiffman, S. (2024). Switching away from smoking and reduction in cigarette consumption among US adult purchasers of the JUUL System across 24 months including diverse subpopulations disproportionately affected by smoking. *Nicotine & Tobacco Research*. Available: [https://doi.org/10.1093/ntr/ntae072](https://doi.org/10.1093/ntr/ntae072)
 
+
 Hajat, C., Stein, E., **Selya, A.**, Polosa, R., CoEHAR Study Group. (2022). Analysis of Common Methodological Flaws in the Highest Cited E-Cigarette Epidemiology Research. *Internal and Emergency Medicine*. Available: [https://doi.org/10.1007/s11739-022-02967-1](https://doi.org/10.1007/s11739-022-02967-1)
 
 
@@ -103,29 +104,25 @@ _____________________________
 
 ### Selected Presentations
 
-**Selya, A.** & Shiffman, S. (2022). Dual use of ENDS and cigarettes: Behavioral Trajectories. Oral presentation at the 75th annual *Tobacco Science Research Symposium*. New Orleans.
+**Rating the Evidence - Good and Bad Science.** Panel discussion at the annual *Global Forum on Nicotine*, Warsaw, Poland, June 2024.
 
 
-**Selya, A.** (2022). E-cigarettes for tobacco harm reduction: A policy-focused ILE. Oral presentation at the annual conference of the *System Dynamics Society*. Frankfurt, Germany.
+**The State Frontier: Taxes, Bans, & Product Regulation.** Panel discussion at the annual meeting of the *Tobacco Manufacturers Association*, Arlington, VA, April 2024.
 
 
-**Selya, A.**, Shiffman, S., Hannon, M. (2022). Relative risk perceptions of switching to JUUL vs. continued smoking are associated with subsequent switching behavior. Poster presentation at the annual conference of the *Society of Behavioral Medicine*, Baltimore.
+**Selective Reporting, Confirmation Bias, and Spin in Scientific Articles.** Oral presentation at the annual *Global Forum on Nicotine*, Warsaw, Poland, June 2023.
 
 
-**Selya, A.S.** (2021). Testing e-cigarette gateway vs diversion scenarios against reality using simulation modeling. Video presentation at the *Global Forum on Nicotine*. Virtual. Available: [https://youtu.be/VgRn4BEz108](https://youtu.be/VgRn4BEz108)
+**Dual Use of ENDS and Cigarettes: Behavioral Trajectories.** Oral presentation at the 75th annual *Tobacco Science Research Symposium*. New Orleans, September 2022.
 
 
-**Selya, A.** (2021). E-cigarettes: The case for harm reduction. Oral presentation at the *Annual Health Care Delivery and Population Health Symposium*. Sanford Research, Sioux Falls. 
+**E-cigarettes for Tobacco Harm Reduction: A Policy-Focused Interactive Learning Environment.** Oral presentation at the annual conference of the *System Dynamics Society*. Frankfurt, Germany, July 2022.
 
 
-Foxon, F. & **Selya, A.S.** (2020). Electronic Cigarettes as a Method of Harm Reduction at the Population Level. Poster presentation at the Annual *Society for Research on Nicotine and Tobacco (SRNT)* Conference. New Orleans.
+**Relative Risk Perceptions of Switching to JUUL vs. Continued Smoking Are Associated with Subsequent Switching Behavior.** Poster presentation at the annual conference of the *Society of Behavioral Medicine*, Baltimore, March 2022.
 
 
-**Selya, A.** (2019). Electronic cigarettes: Gateway to tobacco use or harm reduction? Oral presentation at the *Eastern South Dakota Research Symposium*. Sanford Research, Sioux Falls.
-
-
-Foxon, F. & **Selya, A.S.** (2019). Is Vaping a Gateway to Cigarettes? A Simulation Approach. Poster presentation at the Annual *Sanford Research Summer Research Symposium*. South Dakota.
-
+**Testing E-Cigarette Gateway vs Diversion Scenarios against Reality Using Simulation Modeling.** Video presentation at the *Global Forum on Nicotine*. Virtual, June 2021. Available: [https://youtu.be/VgRn4BEz108](https://youtu.be/VgRn4BEz108)
 
 _____________________________
 
