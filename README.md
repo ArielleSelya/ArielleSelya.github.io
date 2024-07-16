@@ -8,31 +8,6 @@
 _____________________________
 
 
-### Education
-
-**Postgraduate Training** System Dynamics Modeling \
-[System Dynamics Programme, University of Bergen](https://www.uib.no/en/studies/MASV-SYSDY/) \
-*2019-present*
-
-
-**Postdoctoral Fellowship;** \
-**NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
-[Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
-*2010-2014*
-
-
-**Ph.D.** Neuroscience \
-[Rutgers University](https://sasn.rutgers.edu/research/centers-institutes/center-molecular-and-behavioral-neuroscience-cmbn) \
-*2005-2011*
-
-
-**B.A.** Physics \
-[Cornell University](https://physics.cornell.edu/) \
-*2001-2005*
-
-
-_____________________________
-
 ### Employment
 
 **Scientist** \
@@ -40,6 +15,9 @@ _____________________________
 *2020–Present*
 
 *Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction on an exclusive basis to JUUL Labs, Inc.
+
+**Consultant, Center of Excellence for the Acceleration of Harm Reduction (CoEHAR), University of Catania**  \
+*2024-Present*
 
 
 **Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group;** \
@@ -66,6 +44,31 @@ _____________________________
 
 
 _____________________________
+### Education
+
+**Postgraduate Training** System Dynamics Modeling \
+[System Dynamics Programme, University of Bergen](https://www.uib.no/en/studies/MASV-SYSDY/) \
+*2019-present*
+
+
+**Postdoctoral Fellowship;** \
+**NRSA Fellowship,** Laboratory of Dr. Lisa Dierker \
+[Psychology Department, Wesleyan University](https://www.wesleyan.edu/psyc/) \
+*2010-2014*
+
+
+**Ph.D.** Neuroscience \
+[Rutgers University](https://sasn.rutgers.edu/research/centers-institutes/center-molecular-and-behavioral-neuroscience-cmbn) \
+*2005-2011*
+
+
+**B.A.** Physics \
+[Cornell University](https://physics.cornell.edu/) \
+*2001-2005*
+
+
+_____________________________
+
 
 ### Select Publications (of 51)
 
