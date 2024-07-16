@@ -148,7 +148,10 @@ _____________________________
 
 ### Media Appearances
 
-**E-cigarettes aren't a 'gateway' to teen smoking, study says** (2019). CNN. Available: [https://edition.cnn.com/2019/11/04/health/vaping-smoking-gateway-study/index.html](https://edition.cnn.com/2019/11/04/health/vaping-smoking-gateway-study/index.html)
+**Confounding Science: Inside Look at Flawed Nicotine & Tobacco Research.** (2024). Interview with Brent Stafford at RegWatch. Available: [https://regulatorwatch.com/brent_stafford/confounding-science-inside-look-at-flawed-nicotine-tobacco-research-regwatch/](https://regulatorwatch.com/brent_stafford/confounding-science-inside-look-at-flawed-nicotine-tobacco-research-regwatch/)
+
+
+**Deja Vu: Insights on Youth Use from JUUL Researcher.** (2024). GFN TV Interview with Brent Stafford. Available: [https://www.youtube.com/watch?v=QWiLOX6NKy4](https://www.youtube.com/watch?v=QWiLOX6NKy4)
 
 
 **E-cigarettes aren't a gateway to teen smoking, study says, Study Shows** (2019). Fox. Available: [https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/](https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/)
@@ -188,5 +191,3 @@ Google Scholar: [Arielle Selya](https://scholar.google.com/citations?hl=en&user=
 
 PubMed Bibliography: [Arielle Selya](https://www.ncbi.nlm.nih.gov/myncbi/1zSOqjy9YEv5E/bibliography/public/)
 
-
-_____________________________
