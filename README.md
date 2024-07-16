@@ -75,14 +75,14 @@ _____________________________
 
 **Selya, A**, Ruggieri, M., Polosa, R. (2024). Measures of youth e-cigarette use: Strengths, weaknesses, and recommendations. *Frontiers in Public Health*, Vol 12, 2024. Available: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1412406/full](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1412406/full)
 
+
 **Selya, A.** The "Gateway" hypothesis: Evaluation of evidence and alternative explanations. (2024). *Harm Reduction Journal* 21 (113). Available: [https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-024-01034-6](https://harmreductionjournal.biomedcentral.com/articles/10.1186/s12954-024-01034-6)
+
 
 **Selya, A**, Wissmann, R., Shiffman, S., Chandra, S., Sembower, M., Joselow, J., Kim, S. (2023). Higher Sales of Electronic Nicotine Delivery Systems (ENDS) in the US Are Associated with Cigarette Sales Declines, according to a Trend Break Analysis. *Journal of Consumer Policy*. Available: [https://link.springer.com/article/10.1007/s10603-022-09533-4](https://link.springer.com/article/10.1007/s10603-022-09533-4)
 
+
 Hajat, C., Stein, E., **Selya, A.**, Polosa, R., CoEHAR Study Group. (2022). Analysis of Common Methodological Flaws in the Highest Cited E-Cigarette Epidemiology Research. *Internal and Emergency Medicine*. Available: [https://doi.org/10.1007/s11739-022-02967-1](https://doi.org/10.1007/s11739-022-02967-1)
-
-
-**Selya, A.S.**, Shiffman, S., Greenberg, M., Augustson, E.M. (2021) Dual Use of Cigarettes and JUUL: Trajectory and Cigarette Consumption. *American Journal of Health Behavior*. Available: [https://doi.org/10.5993/AJHB.45.3.5](https://doi.org/10.5993/AJHB.45.3.5)
 
 
 **Selya, A.S.** (2021). Reducing the Smoking-Related Health Burden in the USA through Diversion to Electronic Cigarettes: A System Dynamics Simulation Study. *Harm Reduction Journal*. Available: [https://doi.org/10.1186/s12954-021-00484-6](https://doi.org/10.1186/s12954-021-00484-6)
@@ -190,6 +190,3 @@ PubMed Bibliography: [Arielle Selya](https://www.ncbi.nlm.nih.gov/myncbi/1zSOqjy
 
 
 _____________________________
-
-
-![selfie2](https://raw.githubusercontent.com/ArielleSelya/ArielleSelya.github.io/main/gfnPic.png)
