@@ -82,16 +82,12 @@ _____________________________
 **Selya, A**, Wissmann, R., Shiffman, S., Chandra, S., Sembower, M., Joselow, J., Kim, S. (2023). Higher Sales of Electronic Nicotine Delivery Systems (ENDS) in the US Are Associated with Cigarette Sales Declines, according to a Trend Break Analysis. *Journal of Consumer Policy*. Available: [https://link.springer.com/article/10.1007/s10603-022-09533-4](https://link.springer.com/article/10.1007/s10603-022-09533-4)
 
 
+Kim, S., Goldenson, N.I., **Selya, A.**, Shiffman, S. (2024). Switching away from smoking and reduction in cigarette consumption among US adult purchasers of the JUUL System across 24 months including diverse subpopulations disproportionately affected by smoking. *Nicotine & Tobacco Research*. Available: [https://doi.org/10.1093/ntr/ntae072](https://doi.org/10.1093/ntr/ntae072)
+
 Hajat, C., Stein, E., **Selya, A.**, Polosa, R., CoEHAR Study Group. (2022). Analysis of Common Methodological Flaws in the Highest Cited E-Cigarette Epidemiology Research. *Internal and Emergency Medicine*. Available: [https://doi.org/10.1007/s11739-022-02967-1](https://doi.org/10.1007/s11739-022-02967-1)
 
 
-**Selya, A.S.** (2021). Reducing the Smoking-Related Health Burden in the USA through Diversion to Electronic Cigarettes: A System Dynamics Simulation Study. *Harm Reduction Journal*. Available: [https://doi.org/10.1186/s12954-021-00484-6](https://doi.org/10.1186/s12954-021-00484-6)
-
-
 **Selya, A.S.**, Foxon, F. (2021) Trends in Electronic Cigarette Use and Conventional Smoking: Quantifying a Possible “Diversion” Effect among U.S. Adolescents. *Addiction*. Available: [https://doi.org/10.1111/add.15385](https://doi.org/10.1111/add.15385)
-
-
-Foxon, F. & **Selya, A.S.** (2020). Electronic Cigarettes, Nicotine Use Trends, and Use Initiation Ages among US Adolescents from 1999–2018. *Addiction*. Available: [https://doi.org/10.1111/add.15099](https://doi.org/10.1111/add.15099)
 
 
 Sooyong, K. & **Selya, A.S.** (2020). The relationship between electronic cigarette use and conventional cigarette smoking is largely attributable to shared risk factors. *Nicotine and Tobacco Research*. Available: [https://doi.org/10.1093/ntr/ntz157](https://doi.org/10.1093/ntr/ntz157)
