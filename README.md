@@ -25,7 +25,7 @@ _____________________________
 
 **Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group;** \
 **Director, Data Exchange** \
-[Selya Lab, Sanford Research](https://research.sanfordhealth.org/researchers-and-labs/selya-lab) \
+Selya Lab, [Sanford Research](https://research.sanfordhealth.org/) \
 *2018–2021*
 
 
