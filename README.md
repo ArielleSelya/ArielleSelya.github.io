@@ -30,7 +30,7 @@ Selya Lab, [Sanford Research](https://research.sanfordhealth.org/) \
 
 
 **Adjunct Associate Professor** 
-[Pediatrics Department, Univeristy of South Dakota Sanford School of Medicine](https://www.usd.edu/medicine/pediatrics) \
+[Pediatrics Department, Univeristy of South Dakota Sanford School of Medicine](https://www.usd.edu/Academics/Colleges-and-Schools/sanford-school-of-medicine/Divisions-and-Departments/pediatrics#:~:text=The%20mission%20of%20the%20USD,and%20additional%20dedicated%20pediatric%20clinics.) \
 *2018–Present*
 
 
