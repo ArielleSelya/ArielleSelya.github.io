@@ -160,16 +160,16 @@ _____________________________
 **Deja Vu: Insights on Youth Use from JUUL Researcher.** (2024). GFN TV Interview with Brent Stafford. Available: [https://www.youtube.com/watch?v=QWiLOX6NKy4](https://www.youtube.com/watch?v=QWiLOX6NKy4)
 
 
-**E-cigarettes aren't a gateway to teen smoking, study says, Study Shows** (2019). Fox. Available: [https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/](https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/)
+**E-Cigarettes Aren't a Gateway to Teen Smoking, Study Says** (2019). Fox. Available: [https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/](https://fox2now.com/news/e-cigarettes-arent-a-gateway-to-teen-smoking-study-says/)
 
 
 **People Who Vape Probably Would Have Smoked Cigarettes Anyway, Study Shows** (2019). Vice. Available: [https://www.vice.com/en/article/ywajgk/people-who-vape-probably-would-have-smoked-cigarettes-anyway-study-shows](https://www.vice.com/en/article/ywajgk/people-who-vape-probably-would-have-smoked-cigarettes-anyway-study-shows)
 
 
-**Study finds teen vaping probably doesn't lead to smoking** (2019). EurekAlert. Available: [https://www.eurekalert.org/news-releases/626650](https://www.eurekalert.org/news-releases/626650)
+**Study Finds Teen Vaping Probably Doesn't Lead to Smoking** (2019). EurekAlert. Available: [https://www.eurekalert.org/news-releases/626650](https://www.eurekalert.org/news-releases/626650)
 
 
-**San Francisco pushes on with vape ban; Hungary starts to tighten the law** (2019). VapingPost. Available: [https://www.vapingpost.com/2019/06/23/san-francisco-pushes-on-with-vape-ban-hungary-starts-to-tighten-the-law/](https://www.vapingpost.com/2019/06/23/san-francisco-pushes-on-with-vape-ban-hungary-starts-to-tighten-the-law/)
+**San Francisco Pushes on with Vape Ban** (2019). VapingPost. Available: [https://www.vapingpost.com/2019/06/23/san-francisco-pushes-on-with-vape-ban-hungary-starts-to-tighten-the-law/](https://www.vapingpost.com/2019/06/23/san-francisco-pushes-on-with-vape-ban-hungary-starts-to-tighten-the-law/)
 
 
 **Sanford researcher says vaping not a gateway to smoking** (2019). Keloland. Available: [https://www.keloland.com/news/local-news/sanford-researcher-says-vaping-not-a-gateway-to-smoking/](https://www.keloland.com/news/local-news/sanford-researcher-says-vaping-not-a-gateway-to-smoking/)
