@@ -117,13 +117,10 @@ _____________________________
 **Selective Reporting, Confirmation Bias, and Spin in Scientific Articles.** Oral presentation at the annual *Global Forum on Nicotine*, Warsaw, Poland, June 2023.
 
 
-**Dual Use of ENDS and Cigarettes: Behavioral Trajectories.** Oral presentation at the 75th annual *Tobacco Science Research Symposium*. New Orleans, September 2022.
+**Switching Away from Cigarettes Using Tobacco- and Menthol-Flavored JUUL, among Adults who Smoke Menthol vs. Non-Menthol Cigarettes.** Oral presentation at the 76th annual *Tobacco Science Research Conference*, Norfolk, VA, September 2023.
 
 
-**E-cigarettes for Tobacco Harm Reduction: A Policy-Focused Interactive Learning Environment.** Oral presentation at the annual conference of the *System Dynamics Society*. Frankfurt, Germany, July 2022.
-
-
-**Relative Risk Perceptions of Switching to JUUL vs. Continued Smoking Are Associated with Subsequent Switching Behavior.** Poster presentation at the annual conference of the *Society of Behavioral Medicine*, Baltimore, March 2022.
+**Counterfactual Trend Modeling to Examine How Youth Smoking Trends Changed during the E-Cigarette Era.** Poster presentation at the *Society for Research on Nicotine and Tobacco - Europe Chapter*, London, England, September 2023.
 
 
 **Testing E-Cigarette Gateway vs Diversion Scenarios against Reality Using Simulation Modeling.** Video presentation at the *Global Forum on Nicotine*. Virtual, June 2021. Available: [https://youtu.be/VgRn4BEz108](https://youtu.be/VgRn4BEz108)
