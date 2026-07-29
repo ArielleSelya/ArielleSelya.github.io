@@ -2,25 +2,29 @@
 ## Consultant Scientist
 
 
-![selfie](https://raw.githubusercontent.com/ArielleSelya/ArielleSelya.github.io/main/PA_Headshot_round_2.jpg){:height="50%" width="50%"}
-
+<img src="Headshot2026-435.jpg" width="300">
 
 _____________________________
 
 
 ### Employment
 
-*Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction to JUUL Labs, Inc. I also consult to CoEHAR at University of Catania, which received funding from the Foundation for a Smokefree World (FSFW; now Global Action to End Smoking (GA)).
+*Disclosures:* Through Pinney Associates, I provide consulting services on tobacco harm reduction to JUUL Labs, Inc. I am also a scientific advisor to the Global Forum on Nicotine (GFN). My social media content is my own and did not receive funding or oversight from my employers or clients.
 
 
-**Scientist** \
+**Senior Scientist** \
 [PinneyAssociates](https://www.pinneyassociates.com/team/arielle-selya-phd/) \
 *2020–Present*
 
 
+**Scientific Advisor** \
+[Global Forum on Nicotine (GFN)](https://gfn.events/)
+*2024-2025*
+
+
 **Consultant** \
 [Center of Excellence for the Acceleration of Harm Reduction (CoEHAR)](https://www.coehar.org/), University of Catania \
-*2024-Present*
+*2024-2025*
 
 
 **Assistant Scientist, CoBRE Project Leader, Behavioral Sciences Group;** \
